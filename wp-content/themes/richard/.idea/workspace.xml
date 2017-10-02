@@ -28,8 +28,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="2370" column="14" lean-forward="false" selection-start-line="2370" selection-start-column="14" selection-end-line="2370" selection-end-column="14" />
+            <state relative-caret-position="15">
+              <caret line="1073" column="19" lean-forward="false" selection-start-line="1073" selection-start-column="19" selection-end-line="1073" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.cta-box</find>
-      <find>1099</find>
       <find>site-title</find>
+      <find>1099</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -80,10 +80,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="665" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -292,18 +291,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506800435271</updated>
-      <workItem from="1506800436792" duration="6844000" />
+      <workItem from="1506800436792" duration="11930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6844000" />
+    <option name="totallyTimeSpent" value="11930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="665" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="872" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22222222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -408,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="2370" column="14" lean-forward="false" selection-start-line="2370" selection-start-column="14" selection-end-line="2370" selection-end-column="14" />
+        <state relative-caret-position="15">
+          <caret line="1073" column="19" lean-forward="false" selection-start-line="1073" selection-start-column="19" selection-end-line="1073" selection-end-column="19" />
           <folding />
         </state>
       </provider>

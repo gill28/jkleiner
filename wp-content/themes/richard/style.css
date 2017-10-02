@@ -540,12 +540,17 @@ th {
 
 .content {
 	float: right;
-	width: 740px;
+	width: 100%;
 }
 
 .content-sidebar .content,
 .content-sidebar-sidebar .content,
 .sidebar-content-sidebar .content {
+	float: left;
+	width: 60%;
+}
+.sidebar-primary {
+	width: 39%;
 	float: left;
 }
 
@@ -692,6 +697,10 @@ th {
 
 .breadcrumb {
 	margin-bottom: 20px;
+}
+
+.archive-title {
+	display: none;
 }
 
 .archive-description,
@@ -1045,6 +1054,26 @@ Social Icons
 	overflow: hidden;
 }
 
+#menu-home-menu {
+	display: inline-flex;
+	margin: 0 20px;
+}
+#nav_menu-2 .widget-wrap {
+	padding: 0;
+}
+
+.menu-home-menu-container {
+	background-color: #005060;
+	padding: 20px;
+}
+.menu-home-menu-container ul li a {
+	color: white;
+}
+
+.menu-home-menu-container ul li a:hover {
+	color: #6f7073;
+}
+
 /* ## CTA Bar Widget
 --------------------------------------------- */
 
@@ -1052,7 +1081,7 @@ Social Icons
 .widget.call-to-action-bar {
 	background-color: #005060;
 	color: #fff;
-	text-align: left;
+	text-align: center;
 }
 
 .call-to-action-bar h2 {
@@ -2368,7 +2397,7 @@ div.jw-display-icon-container .jw-icon-display {
 	background-size: contain;
 	border: 0;
 	float: left;
-	margin: 38px 0;
+	margin: 41px 0;
 	padding: 0;
 	width: 100%;
 }
@@ -3918,18 +3947,22 @@ ul li.comment {
 
 .site-footer .footer-left {
 	float: left;
-	width: 64%;
+	width: 49%;
+	padding: 0 15px;
 }
 
 .site-footer .extras {
 	float: right;
 	padding-top: 20px;
-	width: 34%;
+	width: 50%;
 }
 
 .site-footer .extras .alignright {
 	margin-bottom: 0;
 	margin-left: 10px;
+}
+.site-footer .extras .ft-image {
+	max-width: 30%;
 }
 
 /* # Full Video Cover Image Controls
@@ -5111,6 +5144,9 @@ body.richard-option5.single-tribe_events .tribe-events-content ul > li:before,
 	.home .content .right-caption .video-text {
 		max-width: 100%;
 	}
+	#menu-home-menu {
+		display: inline-block;
+	}
 
 }
 
@@ -5121,16 +5157,19 @@ body.richard-option5.single-tribe_events .tribe-events-content ul > li:before,
 		max-width: 100%;
 	}
 
-	.content,
-	.site-header .widget-area {
-		width: 68%;
-	}
-	.site-header .widget-area {
+
+	.content, .site-header .widget-area {
 		width: 100%;
 	}
-
+	.content {
+		margin: 0 20px;
+		width: 90%;
+	}
+	.one-half {
+		width: 100%;
+	}
 	.sidebar-primary {
-		width: 30%;
+		width: 100%;
 	}
 	.title-area {
 		width: 100%;
@@ -5208,6 +5247,10 @@ body.richard-option5.single-tribe_events .tribe-events-content ul > li:before,
 		padding: 0;
 	}
 
+	.header-image .site-title > a {
+		margin: 5px 0;
+	}
+
 	.footer-widgets .featured-content .entry {
 		margin: 0 2%;
 		width: 46%;
@@ -5279,6 +5322,9 @@ body.richard-option5.single-tribe_events .tribe-events-content ul > li:before,
 		float: none;
 		text-align: center;
 		width: 100%;
+	}
+	.content-sidebar .content {
+		width: 90%;
 	}
 
 	.nav-primary .genesis-nav-menu > .menu-item > a {
@@ -5550,10 +5596,12 @@ body.richard-option5.single-tribe_events .tribe-events-content ul > li:before,
 		padding-bottom: 25px;
 	}
 
-	.content,
 	.sidebar {
 		clear: both;
 		float: none;
+		width: 100%;
+	}
+	.content-sidebar .content, .sidebar-primary {
 		width: 100%;
 	}
 
@@ -5998,7 +6046,6 @@ body.richard-option5.single-tribe_events .tribe-events-content ul > li:before,
 		font-size: 3.5rem;
 	}
 
-	.content,
 	.sidebar-primary,
 	.site-header .widget-area,
 	.site-inner,
