@@ -1,0 +1,15 @@
+<wpml-config>
+  <admin-texts>
+    <key name="richard-settings">
+      <key name="wsm_attorneys_count"/>
+      <key name="wsm_page_top_image"/>
+      <key name="wsm_practice_area_top_image"/>
+      <key name="wsm_attorney_top_image"/>
+      <key name="wsm_search"/>
+      <key name="wsm_phone"/>
+      <key name="wsm_info"/>
+      <key name="wsm_copyright"/>
+      <key name="wsm_extras"/>
+    </key>
+  </admin-texts>
+</wpml-config>

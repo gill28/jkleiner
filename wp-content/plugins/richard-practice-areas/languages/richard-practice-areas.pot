@@ -1,0 +1,169 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Richard Practice Areas\n"
+"POT-Creation-Date: 2016-07-22 15:12-0600\n"
+"PO-Revision-Date: 2016-06-18 15:10-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: richard-practice-areas.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: metabox\n"
+
+#: metaboxes.php:27
+msgid "Featured Icon"
+msgstr ""
+
+#: metaboxes.php:35
+msgid "Icon URL"
+msgstr ""
+
+#: metaboxes.php:37
+msgid "Recommended image size is 90px wide by 90px high."
+msgstr ""
+
+#: metaboxes.php:42
+msgid "Use Default Icon"
+msgstr ""
+
+#: metaboxes.php:44
+msgid ""
+"<br/>Availbale CSS Class : bankruptcy, corporate-law, employment-law, estate-"
+"planning, litagation, realestate-law, tax-law"
+msgstr ""
+
+#: metaboxes.php:53
+msgid "Feartured Video"
+msgstr ""
+
+#: metaboxes.php:61
+msgid "Video Embed"
+msgstr ""
+
+#: metaboxes.php:62
+msgid "Paste your video url to here. See the"
+msgstr ""
+
+#: metaboxes.php:62
+msgid "WordPress oEmbed Codex"
+msgstr ""
+
+#: metaboxes.php:62
+msgid "for list of compatible video hosting sites such as YouTube, Vimeo, etc."
+msgstr ""
+
+#: metaboxes.php:68
+msgid "Video Poster"
+msgstr ""
+
+#: metaboxes.php:69
+msgid "Recommended image size is 800px wide by 400px high."
+msgstr ""
+
+#: metaboxes.php:75
+msgid "Title"
+msgstr ""
+
+#: metaboxes.php:77
+msgid "Client Testimonial"
+msgstr ""
+
+#: metaboxes.php:82
+msgid "Description"
+msgstr ""
+
+#: metaboxes.php:92
+msgid "Feartured Testimonial"
+msgstr ""
+
+#: metaboxes.php:100
+msgid "Quote"
+msgstr ""
+
+#: metaboxes.php:105
+msgid "Name"
+msgstr ""
+
+#: metaboxes.php:110
+msgid "Company"
+msgstr ""
+
+#: metaboxes.php:115
+msgid "BG Image"
+msgstr ""
+
+#: metaboxes.php:116
+msgid "Recommended image size is 1200px wide by 460px high."
+msgstr ""
+
+#: post-types.php:12 post-types.php:23
+msgid "Practice Areas"
+msgstr ""
+
+#: post-types.php:13
+msgid "Practice Area"
+msgstr ""
+
+#: post-types.php:14 post-types.php:15
+msgid "Add New Practice Area"
+msgstr ""
+
+#: post-types.php:16
+msgid "Edit Practice Area"
+msgstr ""
+
+#: post-types.php:17
+msgid "New Practice Area"
+msgstr ""
+
+#: post-types.php:18
+msgid "View Practice Area"
+msgstr ""
+
+#: post-types.php:19
+msgid "Search Practice Area"
+msgstr ""
+
+#: post-types.php:20
+msgid "No Practice Area found"
+msgstr ""
+
+#: post-types.php:21
+msgid "No Practice Areas found in trash"
+msgstr ""
+
+#: post-types.php:37
+msgid "practice-area"
+msgstr ""
+
+#: post-types.php:53
+msgid "Practice Area Title"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Richard Practice Areas"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.web-savvy-marketing.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Practice Area custom post type."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Web Savvy Marketing"
+msgstr ""

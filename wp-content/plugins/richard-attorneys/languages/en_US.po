@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Richard Attorneys\n"
+"POT-Creation-Date: 2016-06-17 14:38-0600\n"
+"PO-Revision-Date: 2016-06-17 14:39-0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-WPHeader: richard-attorneys.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: metabox\n"
+
+#: metaboxes.php:48
+msgid "Details"
+msgstr "Details"
+
+#: metaboxes.php:56
+msgid "Job Title"
+msgstr "Job Title"
+
+#: metaboxes.php:62
+msgid "Short Description"
+msgstr "Short Description"
+
+#: metaboxes.php:72 metaboxes.php:87
+msgid "Practice Areas"
+msgstr "Practice Areas"
+
+#: metaboxes.php:80 metaboxes.php:106 metaboxes.php:141 metaboxes.php:198
+#: metaboxes.php:238 metaboxes.php:272
+msgid "Section Heading"
+msgstr "Section Heading"
+
+#: metaboxes.php:98
+msgid "Industries"
+msgstr "Industries"
+
+#: metaboxes.php:116
+msgid "Industry {#}"
+msgstr "Industry {#}"
+
+#: metaboxes.php:117
+msgid "Add Another Industry"
+msgstr "Add Another Industry"
+
+#: metaboxes.php:118
+msgid "Remove Industry"
+msgstr "Remove Industry"
+
+#: metaboxes.php:124
+msgid "Industry Name"
+msgstr "Industry Name"
+
+#: metaboxes.php:134
+msgid "Contact Details"
+msgstr "Contact Details"
+
+#: metaboxes.php:147
+msgid "Address"
+msgstr "Address"
+
+#: metaboxes.php:152
+msgid "Phone"
+msgstr "Phone"
+
+#: metaboxes.php:157
+msgid "Fax"
+msgstr "Fax"
+
+#: metaboxes.php:162
+msgid "Email"
+msgstr "Email"
+
+#: metaboxes.php:167
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: metaboxes.php:172
+msgid "Facebook"
+msgstr "Facebook"
+
+#: metaboxes.php:177
+msgid "Twitter"
+msgstr "Twitter"
+
+#: metaboxes.php:182
+msgid "Google +"
+msgstr "Google +"
+
+#: metaboxes.php:193
+msgid "Education"
+msgstr "Education"
+
+#: metaboxes.php:208
+msgid "School {#}"
+msgstr "School {#}"
+
+#: metaboxes.php:209
+msgid "Add Another School"
+msgstr "Add Another School"
+
+#: metaboxes.php:210
+msgid "Remove School"
+msgstr "Remove School"
+
+#: metaboxes.php:216
+msgid "School Name"
+msgstr "School Name"
+
+#: metaboxes.php:222
+msgid "Description"
+msgstr "Description"
+
+#: metaboxes.php:233
+msgid "Associations"
+msgstr "Associations"
+
+#: metaboxes.php:248
+msgid "Association {#}"
+msgstr "Association {#}"
+
+#: metaboxes.php:249
+msgid "Add Another Association"
+msgstr "Add Another Association"
+
+#: metaboxes.php:250
+msgid "Remove Association"
+msgstr "Remove Association"
+
+#: metaboxes.php:256
+msgid "Association Name"
+msgstr "Association Name"
+
+#: metaboxes.php:267
+msgid "Membership/Awards"
+msgstr "Membership/Awards"
+
+#: metaboxes.php:282
+msgid "Membership/Award {#}"
+msgstr "Membership/Award {#}"
+
+#: metaboxes.php:283
+msgid "Add Another Membership/Award"
+msgstr "Add Another Membership/Award"
+
+#: metaboxes.php:284
+msgid "Remove Membership/Award"
+msgstr "Remove Membership/Award"
+
+#: metaboxes.php:290
+msgid "Logo"
+msgstr "Logo"
+
+#: post-types.php:12 post-types.php:23
+msgid "Attorneys"
+msgstr "Attorneys"
+
+#: post-types.php:13
+msgid "Attorney"
+msgstr "Attorney"
+
+#: post-types.php:14 post-types.php:15
+msgid "Add New Attorney"
+msgstr "Add New Attorney"
+
+#: post-types.php:16
+msgid "Edit Attorney"
+msgstr "Edit Attorney"
+
+#: post-types.php:17
+msgid "New Attorney"
+msgstr "New Attorney"
+
+#: post-types.php:18
+msgid "View Attorney"
+msgstr "View Attorney"
+
+#: post-types.php:19
+msgid "Search Attorney"
+msgstr "Search Attorney"
+
+#: post-types.php:20
+msgid "No Attorney found"
+msgstr "No Attorney found"
+
+#: post-types.php:21
+msgid "No Attorneys found in trash"
+msgstr "No Attorneys found in trash"
+
+#: post-types.php:37
+msgid "attorney"
+msgstr "attorney"
+
+#. Plugin Name of the plugin/theme
+msgid "Richard Attorneys"
+msgstr "Richard Attorneys"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.web-savvy-marketing.com/"
+msgstr "http://www.web-savvy-marketing.com/"
+
+#. Description of the plugin/theme
+msgid "Attorney custom post type."
+msgstr "Attorney custom post type."
+
+#. Author of the plugin/theme
+msgid "Web Savvy Marketing"
+msgstr "Web Savvy Marketing"
